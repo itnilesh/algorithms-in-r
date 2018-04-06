@@ -8,4 +8,3 @@ for(i in 1: num) {
 }
 
 print(paste("Factorial of number is = " , facto))
-s
